@@ -1,0 +1,4 @@
+9385 images were found in the dataset.
+5620 images for training.
+1880 images for validation.
+1885 images for test.

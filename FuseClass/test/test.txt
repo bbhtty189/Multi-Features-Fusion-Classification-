@@ -1,0 +1,1885 @@
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-10.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-112.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-114.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-120.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-122.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-123.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-124.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-138.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-139.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-15.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-151.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-155.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-157.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-16.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-165.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-175.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-180.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-181.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-188.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-19.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-192.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-194.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-197.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-203.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-205.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-213.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-215.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-216.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-224.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-230.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-234.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-237.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-247.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-248.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-256.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-259.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-268.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-267.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-274.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-275.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-279.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-284.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-285.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-291.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-294.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-302.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-308.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-317.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-34.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-41.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-42.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-45.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-48.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-55.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-59.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-60.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-61.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-63.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-65.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-67.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-69.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-72.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-81.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-86.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-90.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-96.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/1-98.jpg, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (10) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (103).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (108).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (11).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (118).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (119).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (12) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (121).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (124).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (126).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (127).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (136).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (140).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (141).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (142).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (19) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (24).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (28) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (29).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (34) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (38).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (40).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (45).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (46).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (47).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (48) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (49) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (49).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (5) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (62).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (70).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (87).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (9) (1).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (93).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (94).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-1/image (97).png, 0
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-100.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-107.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-109.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-112.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-12.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-133.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-135.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-137.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-142.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-143.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-144.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-150.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-155.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-156.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-158.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-16.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-168.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-169.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-175.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-176.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-178.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-180.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-182.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-189.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-192.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-197.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-207.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-208.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-21.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-210.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-213.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-230.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-247.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-252.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-253.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-257.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-266.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-274.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-277.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-295.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-311.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-315.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-32.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-322.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-323.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-333.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-338.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-348.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-349.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-350.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-352.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-353.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-355.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-358.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-361.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-366.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-376.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-378.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-38.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-382.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-384.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-387.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-39.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-396.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-397.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-402.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-401.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-404.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-405.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-41.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-410.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-414.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-435.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-448.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-449.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-451.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-454.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-456.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-463.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-466.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-471.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-48.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-49.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-493.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-499.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-50.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-507.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-508.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-511.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-516.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-53.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-532.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-534.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-541.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-545.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-554.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-561.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-562.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-564.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-565.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-57.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-59.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-6.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-64.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-74.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-76.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-77.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-88.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-90.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/2-97.jpg, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (56).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (57).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (62).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (65).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (71).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (73).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (78).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (80).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (86).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (89).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (90).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (91).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (95).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-2/image (97).png, 1
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-101.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-102.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-106.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-12.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-131.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-133.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-14.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-140.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-142.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-149.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-15.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-152.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-158.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-163.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-164.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-166.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-169.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-185.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-191.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-193.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-196.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-198.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-200.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-201.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-203.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-205.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-206.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-213.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-225.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-232.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-234.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-237.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-239.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-244.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-25.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-251.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-255.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-290.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-291.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-294.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-297.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-305.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-322.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-324.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-328.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-329.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-331.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-342.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-347.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-348.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-353.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-364.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-365.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-371.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-372.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-374.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-380.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-39.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-40.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-43.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-44.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-46.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-48.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-57.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-62.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-69.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-73.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-86.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-89.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-9.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/3-96.jpg, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (107).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (110).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (112).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (113).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (116).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (119).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (121).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (134).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (137).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (145).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (153).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (156).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (159).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (162).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (164).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (165).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (169).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (171).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (172).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (176).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (191).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (195).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (196).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (200).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (209).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (211).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (214).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (215).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (217).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (222).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (225).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (227).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (234).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (235).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (236).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (239).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (256).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (265).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/B-52/image (267).png, 2
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-1.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-107.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-109.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-115.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-120.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-126.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-129.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-131.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-132.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-140.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-148.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-15.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-150.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-152.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-164.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-165.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-17.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-173.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-174.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-179.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-184.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-186.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-187.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-189.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-194.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-196.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-198.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-207.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-211.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-219.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-220.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-223.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-227.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-244.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-246.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-247.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-252.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-256.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-257.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-261.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-265.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-269.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-27.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-270.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-272.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-280.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-295.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-296.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-3.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-307.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-320.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-325.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-329.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-338.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-347.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-348.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-35.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-352.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-361.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-366.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-37.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-375.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-376.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-379.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-385.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-389.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-39.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-398.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-402.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-415.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-417.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-42.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-422.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-423.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-426.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-428.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-43.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-432.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-433.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-439.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-44.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-444.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-447.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-448.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-450.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-458.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-459.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-461.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-469.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-471.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-472.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-476.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-488.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-489.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-49.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-491.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-499.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-504.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-509.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-515.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-516.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-521.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-529.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-530.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-537.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-545.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-555.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-567.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-569.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-577.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-581.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-592.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-597.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-602.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-603.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-68.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-76.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-75.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-80.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-89.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/Boeing/0-96.jpg, 3
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-1.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-11.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-111.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-116.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-117.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-12.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-120.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-121.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-123.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-124.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-128.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-129.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-132.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-133.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-135.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-136.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-150.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-154.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-157.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-170.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-172.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-181.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-182.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-193.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-202.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-228.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-25.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-252.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-256.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-257.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-263.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-269.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-291.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-297.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-299.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-304.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-308.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-309.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-315.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-321.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-326.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-327.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-329.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-332.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-347.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-346.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-359.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-365.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-368.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-37.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-370.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-377.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-378.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-379.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-385.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-387.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-388.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-389.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-4.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-402.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-404.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-409.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-412.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-423.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-427.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-432.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-433.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-434.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-435.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-437.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-443.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-449.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-461.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-464.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-470.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-479.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-48.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-483.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-484.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-492.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-496.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-5.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-50.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-502.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-509.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-51.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-510.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-514.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-521.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-524.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-526.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-53.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-536.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-537.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-54.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-541.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-548.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-553.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-556.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-559.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-561.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-565.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-567.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-582.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-587.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-588.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-589.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-590.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-591.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-6.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-61.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-610.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-611.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-619.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-62.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-622.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-625.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-627.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-633.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-635.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-636.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-637.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-640.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-642.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-645.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-65.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-661.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-664.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-667.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-673.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-677.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-679.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-680.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-694.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-75.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-79.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-82.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-89.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-9.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-91.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/5-98.jpg, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (12).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (19).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (24).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (45).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (47).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (5).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (556).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (560).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (561).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (8).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image.png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-130/image (9).png, 4
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-102.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-106.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-108.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-109.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-11.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-110.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-115.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-122.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-126.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-13.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-132.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-136.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-139.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-141.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-147.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-149.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-151.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-153.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-158.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-165.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-171.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-183.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-186.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-207.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-215.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-216.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-220.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-22.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-225.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-232.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-233.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-24.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-258.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-260.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-261.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-271.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-275.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-277.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-278.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-28.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-287.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-289.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-293.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-294.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-296.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-299.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-305.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-310.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-312.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-314.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-315.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-316.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-353.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-356.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-357.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-359.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-371.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-375.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-376.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-39.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-389.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-4.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-44.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-49.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-5.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-58.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-65.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-69.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-73.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-76.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-83.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-84.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-87.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-9.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/6-95.jpg, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (1).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (11).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (117).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (15).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (16).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (19).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (2).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (24).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (25).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (28).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (3).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (36).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (37).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (39).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (42).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (43).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (5).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (6).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (63).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (7).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (70).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (84).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (9).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (91).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (98).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image (99).png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image - 2019-09-21T114439.875.png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image - 2019-09-21T114456.278.png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image - 2019-09-21T114523.468.png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image - 2019-09-21T114541.117.png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-135/image.png, 5
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-112.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-113.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-115.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-117.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-124.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-128.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-13.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-130.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-133.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-132.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-136.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-138.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-143.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-145.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-151.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-162.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-170.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-180.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-189.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-19.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-194.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-199.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-2.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-207.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-213.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-214.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-217.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-222.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-224.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-227.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-228.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-239.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-24.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-252.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-255.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-26.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-260.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-264.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-269.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-279.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-28.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-282.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-288.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-29.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-290.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-291.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-293.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-296.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-298.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-315.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-317.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-320.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-321.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-323.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-341.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-342.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-345.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-35.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-353.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-361.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-368.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-372.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-373.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-374.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-45.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-44.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-46.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-67.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-70.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-71.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-72.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-77.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-80.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-82.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-84.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/7-87.jpg, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (454).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (459).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (462).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (463).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (483).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (491).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (495).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (497).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (502).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (512).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (528).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (531).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (532).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (533).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (536).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (537).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (544).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (545).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (548).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-17/image (553).png, 6
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-1.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-10.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-102.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-106.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-121.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-124.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-131.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-134.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-138.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-139.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-14.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-141.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-142.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-150.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-157.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-159.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-164.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-167.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-17.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-174.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-175.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-179.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-185.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-193.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-201.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-204.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-213.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-218.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-222.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-23.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-231.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-234.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-236.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-242.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-243.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-245.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-253.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-254.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-256.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-261.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-263.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-267.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-274.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-283.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-288.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-300.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-310.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-313.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-32.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-50.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-56.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-58.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-6.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-62.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-67.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-86.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-89.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-90.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-92.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/8-98.jpg, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (275).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (279).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (283).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (285).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (288).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (294).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (299).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (301).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (302).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (304).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (305).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (306).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (307).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (310).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (318).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (327).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (329).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (332).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (335).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (350).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (363).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (365).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (377).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (380).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (386).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (396).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (402).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (408).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (410).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (417).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (419).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (423).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (429).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (434).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (435).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (439).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (441).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (442).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (446).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/C-5/image (450).png, 7
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-1.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-104.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-114.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-115.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-119.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-122.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-129.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-134.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-139.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-141.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-152.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-157.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-158.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-159.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-165.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-176.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-196.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-198.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-200.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-204.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-21.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-211.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-213.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-218.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-226.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-227.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-25.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-26.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-36.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-45.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-52.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-56.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-61.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-67.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-69.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-72.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-75.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-77.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-79.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-8.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-84.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-88.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-92.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-94.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-95.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/9-99.jpg, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (103).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (105).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (106).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (107).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (11).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (116).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (118).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (124).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (125).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (126).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (134).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (146).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (148).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (154).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (156).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (158).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (162).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (164).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (167).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (17).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (174).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (178).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (179).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (191).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (192).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (202).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (206).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (21).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (214).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (28).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (38).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (39).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (4).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (42).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (52).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (58).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (6).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (61).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (7).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (75).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (8).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (82).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (84).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (89).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/E-3/image (93).png, 8
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-100.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-102.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-108.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-119.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-12.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-120.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-123.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-130.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-135.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-141.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-152.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-153.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-155.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-160.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-164.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-170.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-174.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-177.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-184.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-190.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-191.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-192.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-207.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-211.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-214.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-223.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-224.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-226.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-227.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-228.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-229.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-230.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-234.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-244.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-245.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-252.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-253.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-256.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-26.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-261.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-272.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-274.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-286.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-287.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-295.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-296.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-297.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-298.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-299.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-3.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-30.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-310.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-313.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-315.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-316.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-326.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-329.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-332.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-333.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-339.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-34.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-342.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-343.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-345.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-356.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-361.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-362.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-367.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-369.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-387.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-388.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-393.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-402.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-407.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-416.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-417.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-418.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-427.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-428.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-429.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-430.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-436.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-438.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-44.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-443.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-446.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-45.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-450.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-468.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-472.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-474.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-476.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-482.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-492.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-497.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-498.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-501.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-505.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-507.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-512.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-516.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-525.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-548.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-549.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-564.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-568.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-571.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-579.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-582.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-591.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-593.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-597.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-69.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-82.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-9.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-90.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-92.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-96.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-98.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/10-99.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-11.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-12.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-15.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-26.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-29.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-31.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-32.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-35.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-39.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-40.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/14-7.jpg, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (1).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (102).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (103).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (117).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (119).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (121).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (124).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (13).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (130).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (143).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (144).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (148).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (149).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (152).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (165).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (178).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (182).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (21).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (24).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (26).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (29).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (35).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (42).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (48).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (56).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (59).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (61).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (64).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (69).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (74).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (82).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (83).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (86).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (89).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (9).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (91).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (92).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (94).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/F-22/image (95).png, 9
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-1.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-103.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-104.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-111.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-121.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-125.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-126.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-127.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-128.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-131.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-132.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-14.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-147.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-16.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-162.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-168.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-170.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-173.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-179.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-180.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-187.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-190.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-191.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-201.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-208.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-213.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-228.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-239.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-248.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-249.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-25.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-254.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-255.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-258.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-271.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-272.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-274.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-276.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-278.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-279.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-281.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-282.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-284.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-287.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-298.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-307.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-311.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-32.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-326.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-331.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-330.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-336.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-338.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-341.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-350.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-353.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-355.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-37.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-375.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-376.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-377.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-378.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-379.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-38.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-380.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-382.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-383.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-385.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-43.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-45.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-49.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-50.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-52.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-53.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-58.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-7.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-71.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-70.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-77.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-78.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-84.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-87.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/11-89.jpg, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (101).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (107).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (123).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (128).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (15).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (151).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (154).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (159).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (160).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (20).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (22).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (24).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (25).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (30).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (36).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (37).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (4).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (41).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (43).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (44).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (59).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (62).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (76).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (77).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (90).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (92).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (95).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/KC-10/image (97).png, 10
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-102.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-11.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-111.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-116.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-12.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-122.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-123.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-125.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-126.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-134.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-136.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-14.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-143.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-152.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-153.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-161.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-170.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-178.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-182.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-184.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-186.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-194.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-199.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-204.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-205.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-206.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-212.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-226.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-234.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-235.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-238.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-239.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-240.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-241.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-25.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-251.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-256.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-262.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-271.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-274.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-281.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-287.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-289.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-292.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-295.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-299.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-300.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-301.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-306.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-312.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-319.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-325.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-326.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-334.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-336.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-337.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-35.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-350.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-352.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-354.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-367.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-374.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-377.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-382.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-385.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-388.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-39.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-41.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-42.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-43.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-52.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-54.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-56.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-64.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-68.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-74.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-79.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-80.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-92.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-98.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/12-99.jpg, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (22).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (27).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (31).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (36).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (38).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (41).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (44).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (47).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (50).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (55).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (6).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (65).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (67).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (70).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (73).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (87).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (88).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-12(C-21)/image (94).png, 11
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-1.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-11.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-115.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-118.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-119.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-12.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-120.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-126.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-129.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-138.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-143.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-165.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-171.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-178.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-184.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-187.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-188.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-191.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-192.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-194.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-200.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-201.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-203.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-205.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-208.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-210.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-214.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-215.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-217.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-218.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-219.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-222.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-229.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-232.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-233.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-28.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-3.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-31.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-38.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-45.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-48.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-57.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-58.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-59.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-64.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-71.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-76.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/13-95.jpg, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (1).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (108).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (109).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (116).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (117).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (121).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (16).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (19).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (22).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (27).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (3).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (30).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (39).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (43).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (47).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (51).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (58).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (64).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (66).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (74).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (86).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (90).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (93).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image (98).png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-13(U-2)/image.png, 12
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-106.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-108.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-114.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-118.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-128.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-129.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-133.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-138.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-153.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-157.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-158.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-159.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-162.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-169.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-26.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-28.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-33.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-34.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-38.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-44.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-45.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-61.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-62.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-68.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-7.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-72.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-71.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-80.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-82.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-87.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-89.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/15-92.jpg, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (100).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (107).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (108).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (110).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (114).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (117).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (121).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (122).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (128).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (132).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (139).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (14).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (150).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (151).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (152).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (19).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (190).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (191).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (192).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (194).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (198).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (29).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (30).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (33).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (41).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (45).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (5).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (59).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (65).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (73).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (8).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (81).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (88).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (9).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (90).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (92).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-15(A-10)/image (99).png, 13
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-106.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-107.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-13.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-19.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-25.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-30.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-31.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-32.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-33.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-42.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-43.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-45.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-46.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-63.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-73.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-80.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-97.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (1).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/16-99.jpg, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (11).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (13).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (14).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (26).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (28).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (29).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (31).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (34).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (4).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image.png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (41).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (42).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (43).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (47).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (48).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (50).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (56).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (66).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (67).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (69).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (71).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (75).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (86).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (89).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (90).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image (95).png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-16(A-26)/image - 2019-09-20T140700.007.png, 14
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-102.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-105.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-107.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-109.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-117.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-122.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-127.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-131.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-134.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-135.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-149.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-153.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-156.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-157.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-16.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-160.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-168.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-19.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-21.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-25.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-28.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-31.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-36.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-39.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-42.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-48.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-50.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-59.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-6.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-63.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-65.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-7.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-70.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-71.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-84.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-9.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-96.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/17-97.jpg, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (18).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (24).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (29).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (36).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (39).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (5).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (50).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (52).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (53).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (6).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (61).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (65).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (66).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (71).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (75).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (76).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (78).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (81).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (87).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image (91).png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image - 2019-09-20T142140.736.png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image - 2019-09-20T142451.689.png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-17(P-63)/image - 2019-09-20T142534.561.png, 15
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-10.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-11.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-14.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-19.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-21.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-23.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-27.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-36.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-4.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-46.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-50.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-51.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-55.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-61.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-63.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-73.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-74.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-75.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-8.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/18-9.jpg, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (19).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (20).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (21).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (23).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (36).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (37).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (38).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (46).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (59).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (6).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (62).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (73).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (77).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (94).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image (96).png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145413.944.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145423.101.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145426.038.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145747.054.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145750.957.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145803.942.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145839.537.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T145845.420.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T150058.305.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T150542.707.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T150547.376.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T150557.901.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T150844.387.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T150857.931.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T150904.777.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172213.536.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172350.788.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172400.018.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172422.449.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172426.012.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172440.366.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172638.457.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172652.316.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172713.416.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172740.028.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172916.680.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172923.105.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T172945.707.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173007.318.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173212.018.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173219.858.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173222.771.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173252.063.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173316.388.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173319.253.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173723.215.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173726.302.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173734.639.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173744.866.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-18(F-16)/image - 2019-09-20T173958.455.png, 16
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-102.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-12.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-17.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-19.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-2.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-30.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-33.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-36.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-4.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-40.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-41.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-47.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-58.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-62.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-67.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-70.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-75.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-95.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/19-97.jpg, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (11).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (12).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (19).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (20).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (23).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (34).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (42).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (49).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (51).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (66).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (67).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (70).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (72).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (79).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (83).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (9).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (90).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (93).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (96).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image (98).png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175416.331.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175627.406.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175657.523.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175716.749.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175727.747.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175740.705.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175752.996.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175755.583.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T175808.273.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T180027.061.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-19(T-6)/image - 2019-09-20T180029.893.png, 17
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-10.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-100.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-101.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-109.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-11.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-110.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-118.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-121.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-124.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-125.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-127.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-129.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-130.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-132.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-137.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-147.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-148.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-153.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-154.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-155.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-156.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-160.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-170.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-171.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-174.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-175.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-2.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-30.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-36.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-42.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-44.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-49.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-50.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-51.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-62.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-68.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-73.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-82.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-84.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-92.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-94.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-96.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/20-99.jpg, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (10).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (15).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (18).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (35).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (38).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (40).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (41).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (42).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (50).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (59).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (69).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (73).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (74).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image (79).png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181612.199.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181619.797.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181622.505.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181627.934.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181829.866.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181832.584.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181835.156.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-20(B-29)/image - 2019-09-20T181840.530.png, 18
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-100.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-102.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-12.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-121.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-129.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-130.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-134.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-137.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-146.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-149.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-152.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-155.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-158.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-161.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-163.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-164.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-17.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-170.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-171.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-176.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-177.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-180.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-20.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-25.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-28.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-29.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-30.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-31.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-41.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-50.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-59.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-61.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-66.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-65.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-69.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-73.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-75.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-83.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-85.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/21-93.jpg, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (11).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (12).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (18).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (2).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (29).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (37).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (43).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (48).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (5).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (54).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (59).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (66).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (72).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (73).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (75).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (77).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (78).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (96).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image (99).png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image - 2019-09-20T183009.573.png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image - 2019-09-20T183028.110.png, 19
+/root/autodl-tmp/MTARSI/airplane-datasets-new/type-21(t-43)/image - 2019-09-20T183100.925.png, 19
